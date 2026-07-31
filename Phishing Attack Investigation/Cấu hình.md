@@ -44,6 +44,9 @@ Truy cập MailCatcher tại http://127.0.0.1:1080/ để xem các email đã đ
 
 Tải xuống các mẫu tấn công lừa đảo từ PhishTank hoặc OpenPhish. Nhập các mẫu này vào Thunderbird để phân tích.
 
-### 4. Sử dụng các công cụ để phân tích các email
+### 4. phân tích và điều tra email phishing
 
+- Xác định và ghi lại các dấu hiệu lừa đảo trực tuyến phổ biến
+- Phân tích tiêu đề email (Địa chỉ IP của người gửi, thông tin máy chủ đã được xác định,  sự sai lệch nào trong thông tin của người gửi)
+- Điều tra các liên kết đáng ngờ (các liên kết URL, tệp đính kèm)
 
