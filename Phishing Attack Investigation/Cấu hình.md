@@ -49,4 +49,5 @@ Tải xuống các mẫu tấn công lừa đảo từ PhishTank hoặc OpenPhis
 - Xác định và ghi lại các dấu hiệu lừa đảo trực tuyến phổ biến
 - Phân tích tiêu đề email (Địa chỉ IP của người gửi, thông tin máy chủ đã được xác định,  sự sai lệch nào trong thông tin của người gửi)
 - Điều tra các liên kết đáng ngờ (các liên kết URL, tệp đính kèm)
+- Thực hiện ứng phó khi có sự cố xảy ra
 
